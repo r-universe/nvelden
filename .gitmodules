@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/nvelden/nvelden.r-universe.dev
 	branch = HEAD
-[submodule "NGLVieweR"]
-	path = NGLVieweR
-	url = https://github.com/nvelden/nglviewer
-[submodule "geneviewer"]
-	path = geneviewer
-	url = https://github.com/nvelden/geneviewer
+[submodule "shinyblocks"]
+	path = shinyblocks
+	url = https://github.com/nvelden/shinyblocks

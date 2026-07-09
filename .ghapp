@@ -1,0 +1,10 @@
+{
+  "id": 145497913,
+  "created_at": "2026-07-09T17:40:07.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["shinyblocks", "nvelden.r-universe.dev"]
+}
